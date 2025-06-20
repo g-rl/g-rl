@@ -1,7 +1,7 @@
-<h1 align="center">hey, i'm ethan / nyli 👾</h1>
+<h1 align="center">hey, i'm ethan / nyli 🐈</h1>
 
 <p align="center">
-  i make call of duty mods & beats
+  i make call of duty mods & beats when im bored
 </p>
 
 ---
